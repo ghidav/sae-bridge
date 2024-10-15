@@ -1,4 +1,4 @@
-# Pruned-IG
+# SAEBridge
 
 ### Setup
 
