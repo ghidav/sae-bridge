@@ -1,6 +1,6 @@
 # SAEBridge
 
-This repository contains the code for the paper:
+This repo contains the code for the paper:
 
 *"Comparing Coarse and Fine-grained Mechanistic Interpretability in Language Models and Getting the Best of Both Worlds"*
 
